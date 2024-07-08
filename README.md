@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h>About Me:</h>
 Data Scientist and Creative Technologist with a strong interest in generative art. My work centers on the innovative use of data, machine learning and emerging technologies.<br><br>Proficient with a variety of software and tools (Python, SQL, Machine Learning Models, PowerBi, GCS, Touchdesigner, Arduino and Kinect).<br><br>As a Touchdesigner developer and generative artist, my work is primarily rooted in data visualization. I focus on bridging the gap between code, design, art, new media, and cutting-edge technologies to create immersive and interactive experiences. <br><br>Currently, I am exploring human-computer interaction through data and sensors, using behavior as an input to create unique and engaging experiences.
 
 
